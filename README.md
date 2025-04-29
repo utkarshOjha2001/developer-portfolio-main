@@ -11,12 +11,6 @@ A clean, modern, and responsive portfolio template for developers and freelancer
 
 ---
 
-## 🔥 Live Preview
-
-<!-- [View Portfolio](https://abusaid.netlify.app/) -->
-
----
-
 ## 🖼️ Demo Screenshot
 
 ![Portfolio Screenshot](https://raw.githubusercontent.com/utkarshOjha2001/techDevImg/refs/heads/main/devPic.png)
